@@ -19,7 +19,7 @@ EN <br>
 Hi! My name is Rániel, i'm 18 years old and was born in the state of São Paulo. I finished my high school in the city of Ribeirão Preto, as a full-time student. Currently, majoring software engineering in the university of Estácio. I have been passionate about technology since I was a child and until i entered college, i was a completely self-taught student. My linkedIn is: <a href="https://www.linkedin.com/in/r%C3%A1niel-leandro-c-b12735268/"> Rániel Caria </a>.
 
 <p align="left">
-    <a href="https://github.com/stars/ranielcaria/lists/stargazer">
+    <a href="https://github.com/ranielcaria?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
