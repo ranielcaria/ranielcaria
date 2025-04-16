@@ -2,13 +2,6 @@
 
 **`Desenvolvedor/Developer`**
 
-<p aligh="left">
-<img 
-    alt="girl with black hair and a camera" 
-    title="main image" 
-    src=""
-/>
-</p>
 <details>
 <summary>About Me</summary>
 <p>
