@@ -6,7 +6,7 @@
 <img 
     alt="girl with black hair and a camera" 
     title="main image" 
-    src="https://i.pinimg.com/736x/8d/7f/96/8d7f969f4c3860507f2c877c16ac326c.jpg"
+    src=""
 />
 </p>
 <details>
