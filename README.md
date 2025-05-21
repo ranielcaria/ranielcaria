@@ -74,5 +74,3 @@ Hi! My name is Rániel, i'm 18 years old and was born in the state of São Paulo
 
 ---
 > E mesmo se tudo der errado, você sempre pode recomeçar do zero.
-
-— Nastuki Subaru.
