@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rániel Caria
+# 👩🏻‍💻 Rániel
 
 **`Desenvolvedor/Developer`**
 
