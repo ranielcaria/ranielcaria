@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rániel
+# Rániel
 
 **`Desenvolvedor/Developer`**
 
