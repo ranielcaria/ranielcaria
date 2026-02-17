@@ -1,76 +1,47 @@
-# Rániel
-
-**`Desenvolvedor/Developer`**
-
-<details>
-<summary>About Me</summary>
-<p>
-PT-BR <br>
-Me chamo Rániel, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na cidade de Ribeirão Preto em ensino integral. Atualmente, estou cursando Engenharia de Software na Estácio. Sou apaixonado por tecnologia desde criança e até entrar na faculdade, fui totalmente autodidata. Meu linkedIn é:  <a href="https://www.linkedin.com/in/r%C3%A1niel-leandro-c-b12735268/">Rániel Caria</a>.
-<br>
-EN <br>
-Hi! My name is Rániel, i'm 18 years old and was born in the state of São Paulo. I finished my high school in the city of Ribeirão Preto, as a full-time student. Currently, majoring software engineering in the university of Estácio. I have been passionate about technology since I was a child and until i entered college, i was a completely self-taught student. My linkedIn is: <a href="https://www.linkedin.com/in/r%C3%A1niel-leandro-c-b12735268/"> Rániel Caria </a>.
+# Hi there, I'm Rániel Caria! 👋
 
 <p align="left">
-    <a href="https://github.com/ranielcaria?tab=stars">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ranielcaria?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-      <a href="https://github.com/ranielcaria?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ranielcaria?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=SEGUIDORES&logoColor=white"/>
-      </a>
-    </a>
-</p>
-</details>
+  <img src="https://img.shields.io/badge/Software_Engineering-Student-blue?style=for-the-badge&logo=react" alt="Software Engineering Student" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-green?style=for-the-badge" alt="Focus" />
 </p>
 
 ---
-<details>
-<summary>Technologies</summary>
-<h3> 🤖 Languages and Tecnologies </h3>
-<p>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
-<br/>
-<br/>
+### 👨‍💻 About Me
 
-### 📊 Statics
+<table align="center">
+  <tr>
+    <td width="50%">
+      <strong>PT-BR 🇧🇷</strong><br />
+      Olá! Me chamo Rániel, tenho 18 anos e sou de São Paulo. Atualmente curso <b>Engenharia de Software na Estácio</b>. Sou apaixonado por tecnologia desde a infância e desenvolvi minha base técnica de forma autodidata antes da graduação. Hoje, atuo como Estagiário de TI na Prefeitura Municipal de Serrana.
+    </td>
+    <td width="50%">
+      <strong>EN-US 🇺🇸</strong><br />
+      Hi! I'm Rániel, an 18-year-old <b>Software Engineering student</b> from São Paulo, Brazil. I've been a tech enthusiast since childhood, starting as a self-taught programmer. Currently, I'm working as an IT Intern at the City Hall, focusing on building a global career in software development.
+    </td>
+  </tr>
+</table>
 
-![ranielcaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranielcaria&rank_icon=percentile&ring_color=&show_icons=true&theme=dark#&include_all_commits=true&locale=en&)
-
-[![ranielcaria's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ranielcaria&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ranielcaria/github-readme-stats#gh-light-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranielcaria&layout=compact&show_icons=true&theme=dark#&include_all_commits=true&)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/r%C3%A1niel-leandro-c-b12735268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-</details>
-
 
 ---
-> E mesmo se tudo der errado, você sempre pode recomeçar do zero.
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+  
+  <img src="
