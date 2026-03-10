@@ -13,11 +13,11 @@
   <tr>
     <td width="50%">
       <strong>PT-BR 🇧🇷</strong><br />
-      Olá! Me chamo Rániel, tenho 18 anos e sou de São Paulo. Atualmente curso <b>Engenharia de Software na Estácio</b>. Sou apaixonado por tecnologia desde a infância e desenvolvi minha base técnica de forma autodidata antes da graduação. Hoje, atuo como Estagiário de TI na Prefeitura Municipal de Serrana.
+      Olá! Me chamo Rániel, tenho 19 anos e sou de São Paulo. Atualmente curso <b>Engenharia de Software na Estácio</b>. Sou apaixonado por tecnologia desde a infância e desenvolvi minha base técnica de forma autodidata antes da graduação. Hoje, atuo como Estagiário de TI na Prefeitura Municipal de Serrana.
     </td>
     <td width="50%">
       <strong>EN-US 🇺🇸</strong><br />
-      Hi! I'm Rániel, an 18-year-old <b>Software Engineering student</b> from São Paulo, Brazil. I've been a tech enthusiast since childhood, starting as a self-taught programmer. Currently, I'm working as an IT Intern at the City Hall, focusing on building a global career in software development.
+      Hi! I'm Rániel, an 19-year-old <b>Software Engineering student</b> from São Paulo, Brazil. I've been a tech enthusiast since childhood, starting as a self-taught programmer. Currently, I'm working as an IT Intern at the City Hall, focusing on building a global career in software development.
     </td>
   </tr>
 </table>
